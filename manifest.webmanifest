@@ -1,10 +1,10 @@
 {
-  "name": "大阪啊呦呦哉哉",
-  "short_name": "大阪啊呦呦哉哉",
+  "name": "啊呦呦",
+  "short_name": "啊呦呦",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "theme_color": "#b3202f",
   "icons": [
     { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
     { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
